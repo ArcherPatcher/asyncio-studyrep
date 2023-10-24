@@ -1,0 +1,3 @@
+aiologger
+aiohttp
+aiosqlite
